@@ -1,0 +1,60 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  padding: 10px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.custom-nav{
+  background-color:rgba(0, 0, 0, 0.76)!important;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.custom-form{
+  margin-top: 10%;
+}
+
+#assetRedeemForm {
+  margin-bottom: 0%;
+}
+
+a.navbar-brand{
+  font-size:3.25rem !important;
+}
+.custom-footer{
+  /*position: fixed !important;*/
+  /*left: 0 !important;*/
+  bottom: 0 !important;
+  width: 100% !important;
+}
+
+.custom-spacing{
+  height: 400px;
+}
+
+section.download .img {
+   width: 100%;
+   height: auto;
+   opacity:0.8;
+}
+.navbar{
+  margin:0;
+}
+
+.App{
+  overflow-x: hidden;
+}
+
+/*#mainNav.navbar-shrink {
+   border-color: rgba(34, 34, 34, 0.1) !important;
+   background-color: white !important; }*/

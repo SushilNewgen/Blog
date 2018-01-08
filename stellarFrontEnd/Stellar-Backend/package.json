@@ -1,0 +1,32 @@
+{
+  "name": "stellarBackend",
+  "version": "0.0.1",
+  "description": "This repo is used as a link between front-end and docker.",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Newgen",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "blocktrail-sdk": "^3.6.3",
+    "body-parser": "^1.18.2",
+    "colors": "^1.1.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "fs": "0.0.1-security",
+    "https": "^1.0.0",
+    "json-validation": "^1.0.4",
+    "lodash": "^4.17.4",
+    "moment": "^2.20.1",
+    "pg": "^7.4.0",
+    "q": "^1.5.1",
+    "request": "^2.83.0",
+    "simple-node-logger": "^0.93.33",
+    "stellar-base": "^0.7.6",
+    "stellar-sdk": "^0.7.7"
+  }
+}
