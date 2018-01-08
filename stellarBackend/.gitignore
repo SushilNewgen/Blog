@@ -1,0 +1,14 @@
+# Dependency directories
+node_modules
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# Optional logs history
+logger/*.log
+
+# Optional package-lock 
+package-lock.json
